@@ -4,3 +4,4 @@ today we are going to practice 6th session of devops
 lets concentrate and practice it.
 all the best to learn it
 new line adding for the testing purpose.
+this is the commit from branch user1
