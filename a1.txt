@@ -1,0 +1,2 @@
+Welcome to Merge and conflict session.
+This is master commit data.
